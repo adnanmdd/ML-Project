@@ -5,4 +5,8 @@ matplotlib
 scikit-learn
 catboost
 xgboost
+fastapi 
+uvicorn
+jinja2
+python-multipart
 # -e .
